@@ -1,7 +1,7 @@
 # Project 3: Chord Protocol Implementation
 
 # Team Members:
-This project is completed by Smridhi Bhat, UFID: 26010147 and 
+This project is completed by Smridhi Bhat, UFID: 26010147
 
 COP5615: Project 3
 
